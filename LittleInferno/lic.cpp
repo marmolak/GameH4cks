@@ -1,6 +1,8 @@
 // Compatible file (Epic Store):
 // $ shasum ./Little\ Inferno
 // 5bb3ab2e6416217d33d7964023bbc54b2cac946f  ./Little Inferno
+// Don't forgot to resign Little Inferno app after patch.
+// $ codesign -f -s /Users/Shared/*/Little Inferno.app/
 
 #include <iostream>
 #include <fstream>
