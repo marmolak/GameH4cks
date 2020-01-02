@@ -1,6 +1,6 @@
 // Compatible file (Epic Store):
 // $ shasum ./Little\ Inferno
-// 40263e6aef42d26c8821817bdcfa971e5df18fe5  ./Little Inferno
+// 5bb3ab2e6416217d33d7964023bbc54b2cac946f  ./Little Inferno
 
 #include <iostream>
 #include <fstream>
